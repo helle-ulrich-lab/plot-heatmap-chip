@@ -1,4 +1,4 @@
-# <center>Plotting heatmap from excel for ChIP data</center>
+# <center>Plot heatmaps from Excel file for ChIP data</center>
 
 This is a Jupyter notebook that you can use to plot interactively 
 a heatmap from a sheet of an Excel file that looks like this 
